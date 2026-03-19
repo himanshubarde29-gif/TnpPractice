@@ -1,3 +1,4 @@
+// Find all duplicates in an array
 package Mainjava;
 import java.util.HashSet;
 
