@@ -1,3 +1,4 @@
+//Find the majority element n/3
 package Mainjava;
 
 public class Question3 {
